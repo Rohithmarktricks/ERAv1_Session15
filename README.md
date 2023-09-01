@@ -2,7 +2,7 @@
 
 This repository contains the PyTorch implementation of the Original Transformer Paper: [Transformer](https://arxiv.org/pdf/1706.03762.pdf)
 
-```transformers_lightning``` is a python package that contains the implementation using Pytorch Lightning framework.
+```[transformers_lightning](/transformers_lightning/)``` is a python package that contains the implementation using Pytorch Lightning framework.
 
 Refer to [S15.ipynb](/S15.ipynb) Jupyter notebook for the training steps.
 
